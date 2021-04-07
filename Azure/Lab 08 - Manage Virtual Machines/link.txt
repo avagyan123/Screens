@@ -1,0 +1,1 @@
+https://github.com/ArtakG/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_08-Manage_Virtual_Machines.md
